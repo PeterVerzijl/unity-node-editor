@@ -1,0 +1,20 @@
+{
+  "name": "com.peterverzijl.node-editor",
+  "version": "0.9.0-preview",
+  "unity": "2017.1",
+  "displayName": "Node Editor",
+  "description": "Node Editor for conditionals and state machines.",
+  "keywords": [
+    "node",
+    "editor",
+    "conversation"
+  ],
+  "category": "Node Editor",
+  "samples": [],
+  "author": {
+    "name": "Peter Verzijl",
+    "email": "peter@verzijl.com",
+    "url": "https://www.peterverzijl.com"
+  },
+  "type": "tool"
+}

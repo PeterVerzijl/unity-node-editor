@@ -1,0 +1,1 @@
+com.peterverzijl.node-editor copyright © 2020 Peter Verzijl
